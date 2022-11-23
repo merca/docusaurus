@@ -58,7 +58,8 @@ const config = {
         title: "Start",
         logo: {
           alt: "My Site Logo",
-          src: "img/logo.svg",
+          src: "img/wolf.svg",
+          srcDark: "img/wolf_light.svg",
         },
         items: [
           {
@@ -91,16 +92,12 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                label: "Me on github",
+                href: "https://github.com/merca",
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                href: "https://twitter.com/merca666",
               },
             ],
           },
@@ -110,10 +107,6 @@ const config = {
               {
                 label: "Blog",
                 to: "/blog",
-              },
-              {
-                label: "GitHub",
-                href: "https://github.com/merca/docusaurus",
               },
             ],
           },
