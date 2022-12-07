@@ -9,9 +9,7 @@
   "postAttachCommand": {
     "server": "npm run start"
   },
-  "customizations": {
-
-  },
+  "customizations": {},
   "portsAttributes": {
     "3000": {
       "label": "Application",
